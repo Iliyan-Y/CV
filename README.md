@@ -1,25 +1,28 @@
 ## Iliyan Yankov
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm very positive and honest person with strong desire to learn, looking to extend my Junior Developer skills and knowledge.
+
+After graduating from the University of Bologna with a degree in Cinema and worked in a hospitality sector as a concierge for the past few years, I finally made the decision to switch to the thing I always wanted to be - a full stack software developer. So for the last year I learned to code and signed for another 16 week software development bootcamp at Makers Academy.
+
+**Tech Skills** : Ruby, React, Node.js, Express, HTML, CSS, JavaScript, MongoDB, Ant Design, Firebase, Heroku
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name              | Description                                                                                                                  | Tech/tools                       |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **Blog-Anything** | Personal project for a blog app with user authentication, email verification, basic social media interaction and search tool | React, Node.js, Express, MongoDB |
 
-## Experience
+<!-- ## Experience
 
-**Company Name** (start-date to end-date)  
+**Company Name** (start-date to end-date)
 _Your job title_
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
+**Company Name** (start-date to end-date)
 _Your job title_
 
-- Any experience relevent to software development
+- Any experience relevent to software development -->
 
 ## Skills
 

@@ -37,7 +37,7 @@ Last year at my free time I taught myself Ruby, React, Node.js, JavaScript and I
 
 #### Additional skills
 
-\*Editorial: [Premiere Pro](https://youtu.be/Ok6eBtgdBrE), [Photoshop](https://www.youtube.com/watch?v=UpNeY_UGsQc), [Lightroom](https://www.flickr.com/photos/iliyanyankov/)
+\*Editorial: [Premiere Pro](https://youtu.be/Ok6eBtgdBrE), [Photoshop](https://flic.kr/p/ko4yW4), [Lightroom](https://www.flickr.com/photos/iliyanyankov/)
 
 \*Foreign languages: Italian, Bulgarian, basic Russian
 

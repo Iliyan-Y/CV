@@ -35,40 +35,29 @@ On my previous job I had to make sure that every resident request is completed b
 **Fast learner**
 Last year at my free time I taught myself Ruby, React, Node.js, JavaScript and I was able to build on my own a full stack [blog page](https://blog-anything.herokuapp.com/). I surprised all my friend and family when I decided to go and study in a foreign country without knowing the language - for one year I learned italian and took all my exams for the first year.
 
-#### This Skill
+#### Additional skills
 
-- Experience
-- Achievements
-- Evidence
+\*Editorial: [Premiere Pro](https://youtu.be/Ok6eBtgdBrE), [Photoshop](https://www.youtube.com/watch?v=UpNeY_UGsQc), [Lightroom](https://www.flickr.com/photos/iliyanyankov/)
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+\*Foreign languages: Italian, Bulgarian, basic Russian
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2020 - Present)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bologna (2013 - 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- DISCIPLINES OF THE ARTS, MUSIC AND THE SHOW, graduated in Cinema
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+compTia A+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Hiking, Photography, Videography

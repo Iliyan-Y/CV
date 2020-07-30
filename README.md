@@ -8,9 +8,9 @@ After graduating from the University of Bologna with a degree in Cinema and work
 
 ## Projects
 
-| Name                                                       | Description                                                                                           | Tech/tools                       |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **[Blog Anything](https://github.com/Iliyan-Y/BLOG-MERN)** | Blog app with user authentication, email verification, basic social media interaction and search tool | React, Node.js, Express, MongoDB |
+| Name | Description | Tech/tools |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------- | Demo |
+| **[Blog Anything](https://github.com/Iliyan-Y/BLOG-MERN)** | Blog app with user authentication, email verification, basic social media interaction and search tool | React, Node.js, Express, MongoDB | [](https://blog-anything.herokuapp.com/) |
 
 <!-- ## Experience
 
@@ -26,7 +26,14 @@ _Your job title_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+**Excellent communication**
+For the past three years at The Knightsbridge Apartments as a concierge I was often the first point of contact for every resident request. I was able to develop my written and verbal communication skills by responding to emails and answering the phone every day.
+
+**Strong Organization**
+On my previous job I had to make sure that every resident request is completed by the end of the day. So I split and organized the tasks, communicate with my collages and departments to make sure everything is done.
+
+**Fast learner**
+Last year at my free time I taught myself Ruby, React, Node.js, JavaScript and I was able to build on my own a full stack [blog page](https://blog-anything.herokuapp.com/). I surprised all my friend and family when I decided to go and study in a foreign country without knowing the language - for one year I learned italian and took all my exams for the first year.
 
 #### This Skill
 

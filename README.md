@@ -8,9 +8,9 @@ After graduating from the University of Bologna with a degree in Cinema and work
 
 ## Projects
 
-| Name                                                       | Description                                                                                           | Tech/tools                       | Demo                                                  |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------- |
-| **[Blog Anything](https://github.com/Iliyan-Y/BLOG-MERN)** | Blog app with user authentication, email verification, basic social media interaction and search tool | React, Node.js, Express, MongoDB | [The Blog Page](https://blog-anything.herokuapp.com/) |
+| Name                                                       | Description                                                                                           | Tech/tools                       | Demo                                               |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------- |
+| **[Blog Anything](https://github.com/Iliyan-Y/BLOG-MERN)** | Blog app with user authentication, email verification, basic social media interaction and search tool | React, Node.js, Express, MongoDB | [:computer:](https://blog-anything.herokuapp.com/) |
 
 <!-- ## Experience
 

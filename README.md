@@ -1,8 +1,8 @@
 ## Iliyan Yankov
 
-I'm very positive and honest person with strong desire to learn, looking to extend my Junior Developer skills and knowledge.
+I'm a very positive and honest person with willingness to learn, looking to extend my Junior Developer skills and knowledge.
 
-After graduating from the University of Bologna with a degree in Cinema and worked in a hospitality sector as a concierge for the past few years, I finally made the decision to switch to the thing I always wanted to be - a full stack software developer. So for the last year I learned to code and signed for another 16 week software development bootcamp at Makers Academy.
+After graduating the University of Bologna with a degree in Cinema and after working for several years in the hospitality sector as a concierge, I finally made the decision to make a big change, follow my dream and do the thing I always wanted to do - a full stack software developer. So far over the past year I've been learning to code, recently I've also enrolled on another 16 week software development bootcamp at Makers Academy.
 
 **Tech Skills** : Ruby, React, Node.js, Express, HTML, CSS, JavaScript, MongoDB, Ant Design, Firebase, Heroku
 
@@ -27,13 +27,13 @@ _Your job title_
 ## Skills
 
 **Excellent communication**
-For the past three years at The Knightsbridge Apartments as a concierge I was often the first point of contact for every resident request. I was able to develop my written and verbal communication skills by responding to emails and answering the phone every day.
+For the past three years at The Knightsbridge Apartments, working as a concierge, I've often been the first point of contact for the people and I've been dealing with their requests. The work there gave me the opportunity to develop my written and verbal communication skills by daily responding to emails and answering phone calls.
 
 **Strong Organization**
-On my previous job I had to make sure that every resident request is completed by the end of the day. So I split and organized the tasks, communicate with my collages and departments to make sure everything is done.
+On my previous job I had to make sure that every resident request is completed by the end of the day. So I've split and organized the tasks, communicated with my collages and departments to make sure everything is done.
 
 **Fast learner**
-Last year at my free time I taught myself Ruby, React, Node.js, JavaScript and I was able to build on my own a full stack [blog page](https://blog-anything.herokuapp.com/). I surprised all my friend and family when I decided to go and study in a foreign country without knowing the language - for one year I learned italian and took all my exams for the first year.
+Last year at my free time I've learned by myself Ruby, React, Node.js, JavaScript and I was able to build on my own a full stack [blog page](https://blog-anything.herokuapp.com/). I surprised all my friends and family when I decided to go and study in a foreign country without knowing the language - for one year I've learned Italian and I've taken all my First year exams.
 
 #### Additional skills
 

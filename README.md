@@ -8,9 +8,17 @@ After graduating the University of Bologna with a degree in Cinema and after wor
 
 ## Projects
 
-| Name                                                       | Description                                                                                           | Tech/tools                       | Demo                                               |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------- |
+| Name | Description | Tech/tools | Demo |
+| ---- | ----------- | ---------- | ---- |
+
+
+| **[Task Monster](https://github.com/fraserbrookhouse/task_monster)** | A task manager app for people who want keep track of what they need to do, be rewarded when they complete tasks, and punished when they don't. | React Native, Ruby on Rails, MongoDB | [:computer:](https://github.com/fraserbrookhouse/task_monster) |
+
+| **[OctoBook](https://github.com/fraserbrookhouse/acebook-rails-quadropus)** | A social network web app / Facebook clone | Ruby on Rails, Javascript, Postgresql, Rspec | App preview [:computer:](http://octobook-team.herokuapp.com/) |
+
 | **[Blog Anything](https://github.com/Iliyan-Y/BLOG-MERN)** | Blog app with user authentication, email verification, basic social media interaction and search tool | React, Node.js, Express, MongoDB | [:computer:](https://blog-anything.herokuapp.com/) |
+
+| **[makersBNB](https://github.com/Iliyan-Y/makersBNB)** | Airbnb clone - Users authenticate and list/hair their properties for short period of time | Sinatra, Postgresql, Rspec | [:computer:](https://github.com/Iliyan-Y/makersBNB) |
 
 <!-- ## Experience
 

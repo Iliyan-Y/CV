@@ -47,7 +47,7 @@ Last year at my free time I've learned by myself Ruby, React, Node.js, JavaScrip
 
 \*Editorial: [Premiere Pro](https://youtu.be/Ok6eBtgdBrE), [Photoshop](https://flic.kr/p/ko4yW4), [Lightroom](https://www.flickr.com/photos/iliyanyankov/)
 
-\*Foreign languages: Italian, Bulgarian, basic Russian
+\*Foreign languages: Italian, Bulgarian
 
 ## Education
 

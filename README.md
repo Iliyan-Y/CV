@@ -51,7 +51,7 @@ Last year at my free time I've learned by myself Ruby, React, Node.js, JavaScrip
 
 ## Education
 
-#### Makers Academy (July 2020 - Present)
+#### Makers Academy (July 2020 - October 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP

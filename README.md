@@ -2,7 +2,7 @@
 
 I'm a very positive person with willingness to learn, looking to extend my Junior Developer skills and knowledge.
 
-After graduating the University of Bologna with a degree in Cinema and after working for several years in the hospitality sector as a concierge, I finally made the decision to make a big change, follow my dream and do the thing I always wanted to do - a full stack software developer. So far over the past year I've been learning to code, recently I've also enrolled on another 16 week software development bootcamp at Makers Academy.
+After graduating the University of Bologna with a degree in Cinema and after working for several years in the hospitality sector as a concierge, I finally made the decision to make a big change, follow my dream and do the thing I always wanted to do - a full stack software developer. Over the past year I've been learning to code, recently I've also enrolled on another 16 week software development bootcamp at Makers Academy.
 
 **Tech Skills** : JavaScript, Ruby, Rails, React, Node.js, SQL, HTML, CSS
 

@@ -2,7 +2,7 @@
 
 I'm a very positive person with willingness to learn, looking to extend my Junior Developer skills and knowledge.
 
-After graduating the University of Bologna with a degree in Cinema and after working for several years in the hospitality sector as a concierge, I finally made the decision to make a big change, follow my dream and do the thing I always wanted to do - a full stack software developer. Over the past year I've been learning to code, recently I've also enrolled on another 16 week software development bootcamp at Makers Academy.
+After graduating the University of Bologna with a degree in Cinema and after working for several years in the hospitality sector as a concierge, I finally made the decision to make a big change, follow my dream and do the thing I always wanted to do - a full stack software developer. Over the past year I've been learning to code. I've also graduate 16 week bootcamp at Makers Academy for software developers
 
 **Tech Skills** : JavaScript, Ruby, Rails, React, Node.js, SQL, HTML, CSS
 
@@ -41,7 +41,7 @@ For the past three years at The Knightsbridge Apartments, working as a concierge
 On my previous job I had to make sure that every resident request is completed by the end of the day. So I've split and organized the tasks, communicated with my collages and departments to make sure everything is done.
 
 **Fast learner**
-Last year at my free time I've learned by myself Ruby, React, Node.js, JavaScript and I was able to build on my own a full stack [blog page](https://blog-anything.herokuapp.com/). I surprised all my friends and family when I decided to go and study in a foreign country without knowing the language - for one year I've learned Italian and I've taken all my First year exams.
+Last year In my spare time I have learned by myself Ruby, React, Node.js, JavaScript and I was able to build on my own a full stack [blog page](https://blog-anything.herokuapp.com/). I surprised all my friends and family when I decided to go and study in a foreign country without knowing the language - for one year I've learned Italian and I've taken all my First year exams.
 
 #### Additional skills
 

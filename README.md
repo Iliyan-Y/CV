@@ -15,13 +15,9 @@ change, follow my dream and do the thing I always wanted to do - work as a full 
 
 | Name | Description | Tech/tools | Demo |
 | ---- | ----------- | ---------- | ---- |
-
 | **[E-commerce app](https://github.com/Iliyan-Y/theNinjaStore-Rails_React)** |  online store allowing small businesses to sell their products directly to their customers cutting out the middleman fees of the big online e-commerce corporations| Javascript, React, Ruby on Rails, Redux, Postgresql, Stripe, Jest, Rspec, Docker, AWS S3, SES | [:computer:](https://github.com/Iliyan-Y/theNinjaStore-Rails_React) |
-
 | **[Task Monster](https://github.com/fraserbrookhouse/task_monster)** | A task manager app for people who want keep track of what they need to do, be rewarded when they complete tasks, and punished when they don't. | React Native, Ruby on Rails, MongoDB | [:computer:](https://github.com/fraserbrookhouse/task_monster) |
-
-| **[OctoBook](https://github.com/fraserbrookhouse/acebook-rails-quadropus)** | A social network web app / Facebook clone | Ruby on Rails, Javascript, Postgresql, Rspec | App preview [:computer:](http://octobook-team.herokuapp.com/) |
-
+| **[OctoBook](https://github.com/fraserbrookhouse/acebook-rails-quadropus)** | A social network web app / Facebook clone | Ruby on Rails, Javascript, Postgresql, Rspec |[:computer:](http://octobook-team.herokuapp.com/) |
 | **[makersBNB](https://github.com/Iliyan-Y/makersBNB)** | Airbnb clone - Users authenticate and list/hair their properties for short period of time | Sinatra, Postgresql, Rspec | [:computer:](https://github.com/Iliyan-Y/makersBNB) |
 
 <!-- ## Experience

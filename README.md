@@ -1,17 +1,22 @@
 ## Iliyan Yankov
 
-I'm a very positive person with willingness to learn, looking to extend my Junior Developer skills and knowledge.
+I'm a very positive person with willingness to learn, looking to extend my developer skills and
+knowledge.
 
-After graduating from the University of Bologna with a degree in Cinema and after working for several years in the hospitality sector as a concierge, I finally made the decision to make a big change, follow my dream and do the thing I always wanted to do - a full stack software developer. Over the past year I've been learning to code. I've also graduate 16 week bootcamp at Makers Academy for software developer
+My passion about technology, willingness to learn and desire to know how the things work made me change my career. In order to do that I used my abilities to learn quickly in a high pressure environment and graduate intense coding bootcamp at Makers Academy. Over the past year my ambition for success and my interpersonal skills helped me and the people I worked with to successfully complete many different projects.
 
+After graduating from the University with a degree in cinema and after working for
+several years in the hospitality sector as a concierge, I finally made the decision to make a big
+change, follow my dream and do the thing I always wanted to do - work as a full stack software engineer.
 
-**Tech Skills** : JavaScript, Ruby, Rails, React, Node.js, SQL, HTML, CSS
 
 ## Projects
+
 
 | Name | Description | Tech/tools | Demo |
 | ---- | ----------- | ---------- | ---- |
 
+| **[E-commerce app](https://github.com/Iliyan-Y/theNinjaStore-Rails_React)** |  online store allowing small businesses to sell their products directly to their customers cutting out the middleman fees of the big online e-commerce corporations| Javascript, React, Ruby on Rails, Redux, Postgresql, Stripe, Jest, Rspec, Docker, AWS S3, SES | [:computer:](https://github.com/Iliyan-Y/theNinjaStore-Rails_React) |
 
 | **[Task Monster](https://github.com/fraserbrookhouse/task_monster)** | A task manager app for people who want keep track of what they need to do, be rewarded when they complete tasks, and punished when they don't. | React Native, Ruby on Rails, MongoDB | [:computer:](https://github.com/fraserbrookhouse/task_monster) |
 
@@ -44,8 +49,6 @@ Last year In my spare time I have learned by myself Ruby, React, Node.js, JavaSc
 
 #### Additional skills
 
-\*Editorial: [Premiere Pro](https://youtu.be/Ok6eBtgdBrE), [Photoshop](https://flic.kr/p/ko4yW4), [Lightroom](https://www.flickr.com/photos/iliyanyankov/)
-
 \*Foreign languages: Italian, Bulgarian
 
 ## Education
@@ -67,4 +70,4 @@ compTia A+
 
 ## Hobbies
 
-Hiking, Photography, Videography
+Hiking, Photography, Videography, Cyber security

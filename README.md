@@ -15,7 +15,7 @@ change, follow my dream and do the thing I always wanted to do - work as a full 
 
 | Name | Description | Tech/tools | Demo |
 | ---- | ----------- | ---------- | ---- |
-| **[E-commerce app](https://github.com/Iliyan-Y/theNinjaStore-Rails_React)** |  Online store allowing small businesses to sell their products directly to their customers cutting out the middleman fees.| Javascript, React, Ruby on Rails, Redux, Postgresql, Stripe, Jest, Rspec, Docker, AWS S3, SES | [:computer:](https://github.com/Iliyan-Y/theNinjaStore-Rails_React) |
+| **[E-commerce app](https://github.com/Iliyan-Y/theNinjaStore-Rails_React)** |  Online store allowing small businesses to sell their products directly to their customers cutting out the middleman fees.| Javascript, React, Ruby on Rails, Redux, Postgresql, Stripe, Jest, Rspec, Docker, AWS S3, SES | [:computer:](https://enigmatic-sierra-23464.herokuapp.com/) |
 | **[Task Monster](https://github.com/fraserbrookhouse/task_monster)** | A task manager app for people who want keep track of what they need to do, be rewarded when they complete tasks, and punished when they don't. | React Native, Ruby on Rails, MongoDB | [:computer:](https://github.com/fraserbrookhouse/task_monster) |
 | **[OctoBook](https://github.com/fraserbrookhouse/acebook-rails-quadropus)** | A social network web app / Facebook clone | Ruby on Rails, Javascript, Postgresql, Rspec |[:computer:](http://octobook-team.herokuapp.com/) |
 | **[makersBNB](https://github.com/Iliyan-Y/makersBNB)** | Airbnb clone - Users authenticate and list/hair their properties for short period of time | Sinatra, Postgresql, Rspec | [:computer:](https://github.com/Iliyan-Y/makersBNB) |
@@ -34,14 +34,11 @@ _Your job title_
 
 ## Skills
 
-**Excellent communication**
-For the past three years at The Knightsbridge Apartments, working as a concierge, I've often been the first point of contact for the people and I've been dealing with their requests. The work there gave me the opportunity to develop my written and verbal communication skills by daily responding to emails and answering phone calls.
+**Excellent problem solving and organisational**
+Due to my experience as a concierge I was the first point of contact for the people and my role was to receive the request/problem, organize it into understandable tasks, split it into smaller steps and then take action of completing the steps to solving it. Dealing with over 200 apartments on a daily basis, every request was different in nature, often to solve it a fair amount of research was required.
 
-**Strong Organization**
-On my previous job I had to make sure that every resident request is completed by the end of the day. So I've split and organized the tasks, communicated with my collages and departments to make sure everything is done.
-
-**Fast learner**
-Last year In my spare time I have learned by myself Ruby, React, Node.js, JavaScript and I was able to build on my own a full stack [blog page](https://blog-anything.herokuapp.com/). I surprised all my friends and family when I decided to go and study in a foreign country without knowing the language - for one year I've learned Italian and I've taken all my First year exams.
+**Love challenges and I’m adapting easily in new situations**
+Clear example is my decision to change my career and graduating Makers Academy, but also I’ve graduated university in a foreign country - Italy, without speaking the language in the beginning, I’ve managed to take all my credits the first year, and the following years after. During my university education I’ve also joined a student exchange program and I spent 6 months in the USA studying and working. I’m also a multilingual person - I speak 4 languages Italian Bulgarian English and Russian.
 
 #### Additional skills
 

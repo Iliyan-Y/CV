@@ -41,14 +41,23 @@ _Your job title_
 
 \*Foreign languages: Italian, Bulgarian, Russian, English
 
+## Work Experience
+
+#### The Knightsbridge Apartments, Concierge Aug 2017 - Jul 2020
+
+- Many different people rely on me to organise their days. 
+- I had to make sure that every resident request is completed by the end of my shift or handed out properly to the next one. 
+- I've used my emotional intelligence to convert a high pressure situation into a smooth working process, by adapting my behavioural approach to take into account the feelings of others.
+
+
 ## Education
 
 #### Makers Academy (July 2020 - October 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP, TDD, MVC, DDD, DRY, SRP, Agile/XP, CI/CD
+- Ruby, Rails, JavaScript, React, RSpec, Jasmine, Jest, RTL
+- Completed final project in ruby and javascript in a high pressure team environment using paring and TDD.
+- Regularly required to reflect and to evaluate the learning process and communicate effectively to solve challenging problems in an agile way
 
 #### University of Bologna (2013 - 2016)
 

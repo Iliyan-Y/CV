@@ -44,10 +44,10 @@ _Your job title_
 ## Work Experience
 
 #### The Knightsbridge Apartments, Concierge Aug 2017 - Jul 2020
-
-- Many different people rely on me to organise their days. 
+- Used my problem solving and organisational skills to receive the request/problem, organize it into understandable tasks, split it into smaller steps and then take action of completing the steps to solving it.
 - I had to make sure that every resident request is completed by the end of my shift or handed out properly to the next one. 
-- I've used my emotional intelligence to convert a high pressure situation into a smooth working process, by adapting my behavioural approach to take into account the feelings of others.
+- Used my emotional intelligence to convert a high pressure situation into a smooth working process, by adapting my behavioural approach to take into account the feelings of others.
+
 
 
 ## Education

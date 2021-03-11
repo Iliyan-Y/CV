@@ -30,13 +30,12 @@ My passion about technology, willingness to learn and desire to know how the thi
 
 ## Skills
 
-* **Excellent problem solving and organisational** Due to my experience as a concierge I was the first point of contact for the people and my role was to receive the request/problem, organize it into understandable tasks, split it into smaller steps and then take action of completing the steps to solving it. Dealing with over 200 apartments on a daily basis, every request was different in nature, often to solve it a fair amount of research was required.
+* **Excellent problem solving and organisational** As concierge I was the first point of contact for the people and my role was to receive the request/problem, organize it into understandable tasks, split it into smaller steps and then take action of completing the steps to solving it. Dealing with over 200 apartments on a daily basis, every request was different in nature, often to solve it a fair amount of research was required.
 
-* **I'm great teamplayer and I love taking the lead** (where appropriate), that’s why I’ve joined as a collaborator on an open source project. I had the opportunity to convince the team that automated tests are super important and I’m currently having the lead for improving test coverage by sharing my knowledge and best testing practises. 
+* **I'm great teamplayer and I love taking the lead** (where appropriate) I'm currently doing charity work as a software developer for a mental health app. I had the opportunity to convince the team that automated tests are very important and I’m having the lead for increasing test coverage and improving the legacy code quality while delivering new features. 
 
-* **I love learning and constantly looking to improve my knowledge**. It is one of the  many reasons why I’ve chosen to change my career and follow the software developer path. The field is huge and constantly changing which motivates me to learn even more. To stay on top after graduating at Makers I’m constantly working on projects trying to find the balance between mastering what I already know and learning new technology. 
+* **I love learning and constantly looking to improve my knowledge**. One of the reasons why I decided to change my career - working in a fast moving environment is what keeps me motivated.I’m not afraid to learn from my mistakes and ask questions when I get stuck - the constructive feedback is one of the best ways to learn. To progress as a software developer I’m trying to keep myself on the edge of my comfort zone. After graduating at Makers I’m constantly working on projects trying to find the balance between mastering what I already know and learning new technology.
 
-* **I like challenges and I’m adapting easily in new situations** Clear example is my decision to change my career and graduating Makers Academy, but also I’ve graduated university in a foreign country - Italy, without speaking the language in the beginning, I’ve managed to take all my credits the first year, and the following years after. During my university education I’ve also joined a student exchange program and I spent 6 months in the USA studying and working. I’m also a multilingual person - I speak 4 languages Italian Bulgarian English and Russian.
 
 #### Additional skills
 

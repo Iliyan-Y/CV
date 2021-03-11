@@ -60,4 +60,4 @@ compTia A+
 
 ## Hobbies
 
-Hiking, Photography, Videography, Cyber security
+Hiking, Photography, Cyber security

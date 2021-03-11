@@ -1,8 +1,6 @@
 ## Iliyan Yankov
 
-I'm a very positive person with willingness to learn, looking to extend my developer skills and
-knowledge.
-
+I'm a very positive person with willingness to learn, looking to extend my developer skills and knowledge.
 My passion about technology, willingness to learn and desire to know how the things work made me change my career. In order to do that I used my abilities to learn quickly in a high pressure environment and graduate intense coding bootcamp at Makers Academy. Over the past year my ambition for success and my interpersonal skills helped me and the people I worked with to successfully complete many different projects.
 
 ## Projects
@@ -13,19 +11,22 @@ My passion about technology, willingness to learn and desire to know how the thi
 | **[E-commerce app](https://github.com/Iliyan-Y/theNinjaStore-Rails_React)** |  Online store allowing small businesses to sell their products directly to their customers cutting out the middleman fees.| Javascript, React, Ruby on Rails, Redux, Postgresql, Stripe, Jest, Rspec, Docker, AWS S3, SES | [:computer:](https://enigmatic-sierra-23464.herokuapp.com/) |
 | **[Task Monster](https://github.com/fraserbrookhouse/task_monster)** | A task manager app for people who want keep track of what they need to do, be rewarded when they complete tasks, and punished when they don't. | React Native, Ruby on Rails, MongoDB | [:computer:](https://github.com/fraserbrookhouse/task_monster) |
 | **[OctoBook](https://github.com/fraserbrookhouse/acebook-rails-quadropus)** | A social network web app / Facebook clone | Ruby on Rails, Javascript, Postgresql, Rspec |[:computer:](http://octobook-team.herokuapp.com/) |
-| **[makersBNB](https://github.com/Iliyan-Y/makersBNB)** | Airbnb clone - Users authenticate and list/hair their properties for short period of time | Sinatra, Postgresql, Rspec | [:computer:](https://github.com/Iliyan-Y/makersBNB) |
+| **[Acknowledge](https://github.com/Acknowledge-App/Acknowledge)** | It is a way for people to see all of their achievements and acknowledge themselves for it | React Native, Redux, Firebase, Jest, RTL | [:computer:](https://github.com/Acknowledge-App/Acknowledge) |
 
-<!-- ## Experience
+## Work Experience
 
-**Company Name** (start-date to end-date)
-_Your job title_
+#### Acknowledge, Full Stack Developer Jan 2021 - Present
+- Tech stack: JavaScript, React Native, Redux, Firebase, Jest, RTL
+- Sharing agile working culture with the team - creating tickets, assigning weekly sprints and working in pairs during the week for achieving the final goal.
+- Focus on the frontend vision and implementation, with attention to performance, maintainability, and user experience
+- Having the lead for increasing test coverage and improving the legacy code quality.
+- Working closely with the product mangare to improve user experience.
+- Contribute to the creation, maintenance and improvement of supporting backend systems.
 
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)
-_Your job title_
-
-- Any experience relevent to software development -->
+#### The Knightsbridge Apartments, Concierge Aug 2017 - Jul 2020
+- Used my problem solving and organisational skills to receive the request/problem, organize it into understandable tasks, split it into smaller steps and then take action of completing the steps to solving it.
+- I had to make sure that every resident request is completed by the end of my shift or handed out properly to the next one. 
+- Used my emotional intelligence to convert a high pressure situation into a smooth working process, by adapting my behavioural approach to take into account the feelings of others.
 
 ## Skills
 
@@ -40,15 +41,6 @@ _Your job title_
 #### Additional skills
 
 \*Foreign languages: Italian, Bulgarian, Russian, English
-
-## Work Experience
-
-#### The Knightsbridge Apartments, Concierge Aug 2017 - Jul 2020
-- Used my problem solving and organisational skills to receive the request/problem, organize it into understandable tasks, split it into smaller steps and then take action of completing the steps to solving it.
-- I had to make sure that every resident request is completed by the end of my shift or handed out properly to the next one. 
-- Used my emotional intelligence to convert a high pressure situation into a smooth working process, by adapting my behavioural approach to take into account the feelings of others.
-
-
 
 ## Education
 

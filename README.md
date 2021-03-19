@@ -15,7 +15,7 @@ My passion about technology, willingness to learn and desire to know how the thi
 
 ## Work Experience
 
-#### Acknowledge, Full Stack Developer Jan 2021 - Present
+#### Acknowledge, Software Developer Jan 2021 - Present (Charity work)
 - Tech stack: JavaScript, React Native, Redux, Firebase, Jest, RTL
 - Sharing agile working culture with the team - creating tickets, assigning weekly sprints and working in pairs during the week for achieving the final goal.
 - Focus on the frontend vision and implementation, with attention to performance, maintainability, and user experience
